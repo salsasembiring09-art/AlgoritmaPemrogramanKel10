@@ -5,7 +5,7 @@
 #include <QTime>
 #include <QListWidgetItem>
 #include <cstdlib>
-
+          
 // ─────────────────────────────────────────────────
 //  ChatDialog
 // ─────────────────────────────────────────────────
