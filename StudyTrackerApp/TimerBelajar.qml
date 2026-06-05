@@ -7,7 +7,7 @@ Rectangle {
     id: timerPage
     anchors.fill: parent
     color: window.bgPrimary
-
+  
     SoundEffect { id: soundBeep; source: "qrc:/sounds/notif.wav" }
 
     function updateClosestTask() {
