@@ -9,7 +9,7 @@
 
 class TimerRing : public QWidget {
     Q_OBJECT
-public:
+public:  
     explicit TimerRing(QWidget* parent=nullptr);
     void setProgress(double p, bool running);
 protected:
