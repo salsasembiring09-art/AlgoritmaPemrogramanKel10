@@ -1,6 +1,6 @@
 #include "homescreen.h"
 #include <QHBoxLayout>
-#include <QFrame>
+#include <QFrame>    
 #include <QScrollArea>
 #include <QTime>
 #include <QTimer>
